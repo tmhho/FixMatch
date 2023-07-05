@@ -1,0 +1,11 @@
+codecarbon
+imgaug==0.4.0
+pillow==9.0.0
+pynvml==11.4
+sklearn
+prometheus_client
+tensorflow
+visualkeras
+img2vec_pytorch
+scipy 
+wget
