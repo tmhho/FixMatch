@@ -1,6 +1,6 @@
 codecarbon
 imgaug
-sklearn
+scikit-learn
 tensorflow
 visualkeras
 torch
