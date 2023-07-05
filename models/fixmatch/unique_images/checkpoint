@@ -1,0 +1,2 @@
+model_checkpoint_path: "1_percent_unique"
+all_model_checkpoint_paths: "1_percent_unique"
