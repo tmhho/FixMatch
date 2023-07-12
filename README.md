@@ -1,6 +1,7 @@
 # Study of semi-supervised learning: FixMatch
 
 __Authors__: Minh-ha Ho, Alexandre Personnic 
+
 __Supervisor__: Axel Carlier
 
 # Introduction
