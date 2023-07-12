@@ -1,4 +1,4 @@
-# Semi-supervised learning: Implementation and analysis of FixMatch
+# Study of semi-supervised learning: FixMatch
 
 __Authors__: Minh-ha Ho and Alexandre Personnic 
 
